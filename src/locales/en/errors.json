@@ -1,0 +1,7 @@
+{
+  "error": "Error",
+  "somethingWentWrong": "Something went wrong",
+  "requestFailed": "Request Failed",
+  "status.403.title": "Unauthorized access",
+  "status.403.message": "You don't have permissions"
+}

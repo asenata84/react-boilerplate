@@ -1,0 +1,21 @@
+{
+  "login": "Log in",
+  "daysOfWeek.sunday": "Sunday",
+  "daysOfWeek.monday": "Monday",
+  "daysOfWeek.tuesday": "Tuesday",
+  "daysOfWeek.wednesday": "Wednesday",
+  "daysOfWeek.thursday": "Thursday",
+  "daysOfWeek.friday": "Friday",
+  "daysOfWeek.saturday": "Saturday",
+  "days": "{{day}} days",
+  "day": "{{day}} day",
+  "select": "Select",
+  "close": "Close",
+  "cancel": "Cancel",
+  "save": "Save",
+  "edit": "Edit",
+  "selectAll": "Select All",
+  "check": "Check",
+  "search": "Search ...",
+  "sortBy": "Sort By"
+}
